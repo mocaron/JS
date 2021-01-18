@@ -87,7 +87,7 @@ body {
   display: flex;
   align-items: center;
   padding: var(--base-space);
-  margin-botton: var(--base-space);
+  margin-bottom: var(--base-space);
 }
 
 .item__thumbnail {
@@ -96,6 +96,6 @@ body {
 }
 
 .item__descriptoin {
-  margint-left: var(--base-space);
+  margin-left: var(--base-space);
   font-size: var(--font-size);
 }
